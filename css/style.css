@@ -99,7 +99,8 @@ p{
 	text-align:center;
 	background:url(../img/background-2.png) left top no-repeat, linear-gradient(to left, #030A14, #5E8B86);
 	background-size: 100% 100%;
-	padding:280px 0;
+	padding:200px 0;
+	height: 630px;
 }
 .logo{
 	width:130px;
