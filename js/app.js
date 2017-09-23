@@ -1,11 +1,11 @@
 // Preloader //
 
-// $(document).ready(function() {  
-//     $(window).on("load", function(){
-//       $('#preloader').delay(1000).fadeOut(1500);
-//     });
+$(document).ready(function() {  
+    $(window).on("load", function(){
+      $('#preloader').delay(2000).fadeOut(1000);
+    });
 
-// });
+});
 
 $(document).ready(function(e) {
   $('#test').scrollToFixed();
